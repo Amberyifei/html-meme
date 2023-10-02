@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+.lalala{
+    padding: 10px #fff502 ;
+    border:10px #fff502 solid;
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 5%;
+    text-align: center;
+}
+img{
+    width: 100%;   
+}
+#text1{
+    font-family: 'Libre Baskerville', serif;        
+    text-align: center;
+    color: #fff502;
+    text-transform: uppercase;
+}
+#text2{
+    font-family: 'Libre Baskerville', serif;       
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff502;
+}
+
+  
